@@ -29,10 +29,10 @@ $ pip3 install -r requirements.txt
 ```
 python arXivSandBoa.py
 ```
-###Support & Contributions
+### Support & Contributions
 
-*Please ⭐️ this repository if this project helped you
-*Any kind of contributions are welcomed. :)
+* Please ⭐️ this repository if this project helped you
+* Any kind of contributions are welcomed. :)
 
 ## License
 
