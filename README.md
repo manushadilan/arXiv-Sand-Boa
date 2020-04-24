@@ -29,6 +29,8 @@ $ pip3 install -r requirements.txt
 ```
 python arXivSandBoa.py
 ```
+* [Tutorial](https://www.youtube.com/watch?v=fjqrKLP70Y0)
+
 ### Support & Contributions
 
 * Please ⭐️ this repository if this project helped you
